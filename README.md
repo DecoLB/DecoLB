@@ -11,8 +11,8 @@ Sou o André Barbosa 👋👋👋👋
 
 <div align="center">
   <a href="https://github.com/DecoLB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DecoLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLB&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DecoLB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLB&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@ Sou o André Barbosa 👋👋👋👋
   <img align="center" alt="Deco-javascr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Deco-magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
   <img align="center" alt="Deco-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
+  <img align="right" alt="Deco-gif" height="150" style="border-radius:50px;"src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
 </div>
   
   
